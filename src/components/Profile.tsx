@@ -8,7 +8,7 @@ export const Profile = () =>{
                     src='https://swall.teahub.io/photos/small/0-7025_nature-wallpaper-with-flowers-image-good-morning-photo.jpg'/>
             </div>
             <div>
-                ava + descriptiob
+                ava + descriptiob push comit
             </div>
             <div>My posts
                 <div>New post
