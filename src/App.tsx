@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import {BrowserRouter, Route, Router} from "react-router-dom";
 import {Header} from "./components/Header";
@@ -18,6 +17,7 @@ export const App = () => {
 
     )
 }
+
 
 
 export default App;
